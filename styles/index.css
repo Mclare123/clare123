@@ -1,0 +1,33 @@
+header{
+    background:rgb(219, 255, 164);
+    width: 100;
+    overflow:hidden;
+}
+
+header li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+header a{
+    text-decoration: none;
+    color:hotpink;
+}
+
+header li:hover{
+    color:indigo;
+}
+header nav{
+    float: right;
+
+
+}
+header .logo img{
+    width:30%;
+    height: 20%;
+}
+
+
